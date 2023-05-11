@@ -8,3 +8,8 @@ Included is also the [hipify-perl](hipify-perl) script which is not available on
 
 - HIP CUDA headers: ROCm 5.4.3
 - hipify-perl: [ROCm-Developer-Tools/HIPIFY:73c5d36e2](https://github.com/ROCm-Developer-Tools/HIPIFY/blob/73c5d36e22154f7d0d48bfd746a186fada98ed26/bin/hipify-perl)
+
+
+## Links
+
+- [HIP Supported CUDA API](https://docs.amd.com/bundle/HIP_Supported_CUDA_API_Guide_v5.4)
